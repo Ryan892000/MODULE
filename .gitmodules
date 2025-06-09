@@ -1,0 +1,6 @@
+[submodule "CLAIM"]
+	path = CLAIM
+	url = https://github.com/Ryan892000/CLAIM.git
+[submodule "POLICYPROCESSING"]
+	path = POLICYPROCESSING
+	url = https://github.com/Ryan892000/POLICYPROCESSING.git
